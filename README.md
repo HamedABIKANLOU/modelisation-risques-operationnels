@@ -64,15 +64,6 @@ Enrichir les variables avec des données textuelles (NLP sur la description des 
 
 Python, pandas, NumPy, scikit-learn, statsmodels, SHAP, Matplotlib
 
-## Structure du dépôt
-
-```
-data/        description des données et lien vers P-COLD
-notebooks/   analyse exploratoire et modélisation
-src/         scripts Python
-README.md
-```
-
 ## Auteur
 
 Hamed ABIKANLOU, ingénieur statisticien-économiste (finance et actuariat), Master EGRF, Université de Rouen Normandie.
